@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+tensorflow-gpu==2.2.0
+ipykernel
+
